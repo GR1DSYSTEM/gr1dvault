@@ -14,3 +14,6 @@ PKM
 - [Andy Matuschak](https://notes.andymatuschak.org/)
 - [Fork My Brain - Nicole van der Hoeven](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
 - [The Integral Guide to Well-Being](https://integralguide.com/About)
+- [The Threshold](https://hermitage.utsob.me/)
+- [JavaScript Development | Trail Running | Fastpacking | Aaron Young](https://ajy.co/)
+- [Home](https://teresawatts.com/)
