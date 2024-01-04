@@ -14,8 +14,8 @@ tags:: #resource/design
 # Related Notes
 - [[Notes/UX Maturity\|UX Maturity]]
 - [[Notes/Framework\|Framework]]
-- [[Notes/Four Factors in UX Maturity\|Four Factors in UX Maturity]]
 - [[Notes/Design Thinking\|Design Thinking]]
+- [[Notes/Four Factors in UX Maturity\|Four Factors in UX Maturity]]
 - [[MOCs/Google UX Foundations\|Google UX Foundations]]
 - [[MOCs/Design\|Design]]
 
