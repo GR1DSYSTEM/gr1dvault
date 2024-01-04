@@ -3,7 +3,7 @@
 ---
 
 
-[[+ HOME\|Home]] | [[Maps\|Maps]] | [[Logs\|Logs]] | [[About\|About]]
+[[+ HOME\|Home]] | [[Maps\|Maps]] | [[Logs\|Logs]] | [[Now\|Now]] | [[About\|About]]
 
 ---
 
@@ -16,9 +16,9 @@
 - [[MOCs/Google UX Foundations\|Google UX Foundations]]
 
 # All MOCs
-- [[MOCs/Philosophy\|Philosophy]]
 - [[MOCs/Design\|Design]]
 - [[MOCs/Google UX Foundations\|Google UX Foundations]]
 - [[MOCs/Marketing\|Marketing]]
+- [[MOCs/Philosophy\|Philosophy]]
 
 { .block-language-dataview}
