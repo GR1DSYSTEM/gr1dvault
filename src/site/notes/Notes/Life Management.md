@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/life-management/"}
 ---
 
-tags:: #progress/sprout🌿 
+tags:: #progress/sapling🪴 
 
 ---
 # Tools
