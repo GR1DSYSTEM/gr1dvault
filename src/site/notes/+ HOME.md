@@ -3,14 +3,7 @@
 ---
 
 
-[[+ HOME\|Home]] | [[Maps\|Maps]] | [[Logs\|Logs]] | [[About\|About]]
-
----
-
-Currently focused on
-- Drawing
-- Aim Training
-- [[Notes/Latin\|Latin]]
+[[+ HOME\|Home]] | [[Maps\|Maps]] | [[Logs\|Logs]] | [[Now\|Now]] | [[About\|About]]
 
 ---
 
@@ -23,10 +16,10 @@ In Progress
 
 To-do
 - [[Sources/Books/Make Time\|Make Time]]
-- [[Notes/UX Maturity\|UX Maturity]]
 - [[Notes/Stoicism\|Stoicism]]
-- [[Notes/Obsidian Workflow\|Obsidian Workflow]]
+- [[Notes/UX Maturity\|UX Maturity]]
 - [[Notes/Maslow Hierachy of Needs\|Maslow Hierachy of Needs]]
+- [[Notes/Obsidian Workflow\|Obsidian Workflow]]
 - [[Notes/Marketing Strategy\|Marketing Strategy]]
 - [[Notes/Marketing Mix\|Marketing Mix]]
 - [[Notes/Four Factors in UX Maturity\|Four Factors in UX Maturity]]
