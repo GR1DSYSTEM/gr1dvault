@@ -34,6 +34,5 @@ I use the [[The Para Method\|The Para Method]] method as tags to reduce the amou
 Use `#progress` tags to track how develop the notes are.
 
 1. seed🌱
-2. sprout🌿
 3. sapling🪴
 4. tree🌲
