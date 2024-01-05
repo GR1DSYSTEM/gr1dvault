@@ -44,10 +44,11 @@ fluvi==i== magn==i==
 
 ---
 # Resources
-[Teach yourself Latin – Scholae interrētiālēs](https://scholaeinterretiales.wordpress.com/teach-yourself-latin/)
 [Brief guide to LLPSI](https://docs.google.com/document/d/1PB5HPz2wBDgqWXPnn5ONgZicOPv8P7LbODvkCxjpI3w/edit)
+[Teach yourself Latin – Scholae interrētiālēs](https://scholaeinterretiales.wordpress.com/teach-yourself-latin/)
 [The Latin Language Reddit](https://www.reddit.com/r/latin/)
 [Teaching Latin to Humans. How to Honor both the Language and the Learner](https://omnivore.app/GR1D/teaching-latin-to-humans-how-to-honor-both-the-language-and-the--18c3e842e2c)
+[SVO v. SOV in Latin? : r/latin](https://www.reddit.com/r/latin/comments/18lccbr/svo_v_sov_in_latin/)
 
 ---
 # References
