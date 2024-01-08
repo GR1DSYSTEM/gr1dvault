@@ -80,5 +80,5 @@ You might also test more than one prototype at the same time to get feedback for
 
 ---
 # References
-1. [[Sources/Courses/Google UX Foundations/Design Thinking - A UX design framework\|Design Thinking - A UX design framework]]
+1. [[Sources/Courses/Google UX Foundations/Design Thinking - A UX design framework - Google UX\|Design Thinking - A UX design framework - Google UX]]
 2. [What is Design Thinking? | IxDF](https://www.interaction-design.org/literature/topics/design-thinking)
