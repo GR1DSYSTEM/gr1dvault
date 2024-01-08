@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/obsidian-workflow/"}
 ---
 
-tags::  #resource/obsidian #progress/sapling🪴 #status/todo  
+tags::  #resource/obsidian #progress/sapling🪴 #status/ongoing  
 
 ---
 
