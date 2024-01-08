@@ -7,11 +7,11 @@
 
 ---
 
-This vault is a [[Notes/Personal Knowledge Management\|Personal Knowledge Base]] by **Teerathad U.** made using [[Notes/Obsidian\|Obsidian]] and [published](https://gr1dvault.netlify.app/) by the [Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden)
+This vault is a [[Lab/Personal Knowledge Management\|Personal Knowledge Base]] by **Teerathad U.** made using [[Notes/Obsidian\|Obsidian]] and [published](https://gr1dvault.netlify.app/) by the [Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden)
 
 This is a part of the [[Notes/Life Management\|life management tools]] used by me.
 
-## Plugins #status/inprogress  
+## Plugins  
 ### Essentials
 - Admonition
 - Advanced Table
