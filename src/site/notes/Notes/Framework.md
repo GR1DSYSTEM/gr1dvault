@@ -12,5 +12,5 @@ In design, frameworks such as [[Notes/Design Thinking\|Design Thinking]] provide
 
 ---
 # References
-1. [[Sources/Courses/Google UX Foundations/Design Thinking - A UX design framework\|Design Thinking - A UX design framework]]
+1. [[Sources/Courses/Google UX Foundations/Design Thinking - A UX design framework - Google UX\|Design Thinking - A UX design framework - Google UX]]
 
