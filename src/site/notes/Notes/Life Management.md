@@ -8,7 +8,7 @@ tags:: #progress/sapling🪴
 [[Workflow.canvas|Workflow]]
 
 # Tools
-[[Notes/Personal Knowledge Management\|Personal Knowledge Management]]: [[Notes/Obsidian\|Obsidian]]
+[[Lab/Personal Knowledge Management\|Personal Knowledge Management]]: [[Notes/Obsidian\|Obsidian]]
 Hand-written notes: Notability
 Quick Capture: Keep Notes
 Read-it-later: Pocket/Omnivore
