@@ -7,7 +7,7 @@ tags:: #resource/design #progress/tree🌲
 
 ---
 
-Design Thinking is a **[[User-centered Design\|User-centered]]** [[Notes/Framework\|Framework]] that help you understand users, their problems, and create solutions that address the user’s problems.
+Design Thinking is a **[[User-centered Design\|User-centered]]** [[Lab/Framework\|Framework]] that help you understand users, their problems, and create solutions that address the user’s problems.
 
 The process is *non-linear* and *repeating* to refine the design.
 
