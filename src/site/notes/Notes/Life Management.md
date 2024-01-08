@@ -5,6 +5,8 @@
 tags:: #progress/sapling🪴 
 
 ---
+[[Workflow.canvas|Workflow]]
+
 # Tools
 [[Notes/Personal Knowledge Management\|Personal Knowledge Management]]: [[Notes/Obsidian\|Obsidian]]
 Hand-written notes: Notability
