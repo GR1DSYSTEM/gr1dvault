@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/notes/obsidian/"}
 ---
 
-tags:: #resource/obsidian #resource/pkm #progress/seed🌱 
+tags:: #resource/obsidian #resource/pkm #progress/sapling🪴  
 
 ---
 
 # What is Obsidian
 Obsidian is a markdown notetaking application with features such as internal links system.
 
-Known for using as [[Notes/Personal Knowledge Management\|Personal Knowledge Base]]. It emphasize Lifelong Learning
+Known for using as [[Lab/Personal Knowledge Management\|Personal Knowledge Base]]. It emphasize Lifelong Learning
 
 # Personal Workflow
 
