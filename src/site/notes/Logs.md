@@ -12,5 +12,6 @@
 - [[Logs/Inspirations\|Inspirations]]
 - [[Logs/Quotes\|Quotes]]
 - [[Logs/Useful Websites\|Useful Websites]]
+- [[Logs/Question Log\|Question Log]]
 
 { .block-language-dataview}
