@@ -10,4 +10,4 @@
 Currently focused on
 - Drawing
 - Aim Training
-- [[Notes/Latin\|Latin]]
+- [[Lab/Latin\|Latin]]
