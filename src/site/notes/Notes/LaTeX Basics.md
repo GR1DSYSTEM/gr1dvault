@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/la-te-x-basics/"}
 ---
 
-tags:: #resource/obsidian 
+tags:: #resource/obsidian #progress/sapling🪴 
 
 ---
 
