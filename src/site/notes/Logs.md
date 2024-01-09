@@ -10,8 +10,8 @@
 - [[Logs/Book Log\|Book Log]]
 - [[Logs/Idea Log\|Idea Log]]
 - [[Logs/Inspirations\|Inspirations]]
+- [[Logs/Question Log\|Question Log]]
 - [[Logs/Quotes\|Quotes]]
 - [[Logs/Useful Websites\|Useful Websites]]
-- [[Logs/Question Log\|Question Log]]
 
 { .block-language-dataview}
