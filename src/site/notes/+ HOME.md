@@ -15,11 +15,11 @@ In Progress
 
 To-do
 - [[Notes/Achieve Greatness by Devouring Others\|Achieve Greatness by Devouring Others]]
-- [[Lab/Building a Second Brain\|Building a Second Brain]]
-- [[Lab/Stoicism\|Stoicism]]
-- [[Lab/Maslow Hierachy of Needs\|Maslow Hierachy of Needs]]
-- [[Lab/Make Time\|Make Time]]
-- [[Lab/Four Factors in UX Maturity\|Four Factors in UX Maturity]]
 - [[Lab/UX Maturity\|UX Maturity]]
+- [[Lab/Stoicism\|Stoicism]]
+- [[Lab/Make Time\|Make Time]]
+- [[Lab/Building a Second Brain\|Building a Second Brain]]
+- [[Lab/Maslow Hierachy of Needs\|Maslow Hierachy of Needs]]
+- [[Lab/Four Factors in UX Maturity\|Four Factors in UX Maturity]]
 
 { .block-language-dataview}
