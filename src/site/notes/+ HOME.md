@@ -17,9 +17,9 @@ To-do
 - [[Notes/Achieve Greatness by Devouring Others\|Achieve Greatness by Devouring Others]]
 - [[Lab/UX Maturity\|UX Maturity]]
 - [[Lab/Stoicism\|Stoicism]]
-- [[Lab/Make Time\|Make Time]]
-- [[Lab/Building a Second Brain\|Building a Second Brain]]
 - [[Lab/Maslow Hierachy of Needs\|Maslow Hierachy of Needs]]
+- [[Lab/Make Time\|Make Time]]
 - [[Lab/Four Factors in UX Maturity\|Four Factors in UX Maturity]]
+- [[Lab/Building a Second Brain\|Building a Second Brain]]
 
 { .block-language-dataview}
