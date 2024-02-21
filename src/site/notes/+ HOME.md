@@ -19,7 +19,7 @@ To-do
 - [[Lab/Stoicism\|Stoicism]]
 - [[Lab/Maslow Hierachy of Needs\|Maslow Hierachy of Needs]]
 - [[Lab/Make Time\|Make Time]]
-- [[Lab/Four Factors in UX Maturity\|Four Factors in UX Maturity]]
 - [[Lab/Building a Second Brain\|Building a Second Brain]]
+- [[Lab/Four Factors in UX Maturity\|Four Factors in UX Maturity]]
 
 { .block-language-dataview}
