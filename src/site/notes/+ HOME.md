@@ -10,6 +10,7 @@
 ## Notes Status
 In Progress
 - [[Lab/Latin\|Latin]]
+- [[Lab/How to Live a Good Life\|How to Live a Good Life]]
 
 { .block-language-dataview}
 
@@ -19,7 +20,7 @@ To-do
 - [[Lab/Stoicism\|Stoicism]]
 - [[Lab/Maslow Hierachy of Needs\|Maslow Hierachy of Needs]]
 - [[Lab/Make Time\|Make Time]]
-- [[Lab/Building a Second Brain\|Building a Second Brain]]
 - [[Lab/Four Factors in UX Maturity\|Four Factors in UX Maturity]]
+- [[Lab/Building a Second Brain\|Building a Second Brain]]
 
 { .block-language-dataview}
